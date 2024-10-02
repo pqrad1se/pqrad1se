@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Ибрагим!</h1>
+<h1 align="center">🪩 Всем привет! 🪩</h1>
 
 
 ###
@@ -26,7 +26,7 @@
 <div align="center">
   <img height="300" width="600" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
 </div>
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Технологии: </h3>
 
 ###
 
