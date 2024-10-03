@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/8d/86/42/8d8642148830fc5c69a21dc16632afbd.gif"  />
+  <img height="300" width="600" src="https://i.pinimg.com/originals/fd/d6/d7/fdd6d74c0be3966e5ac35d273001b3b0.gif"  />
 </div>
 
 ###
 
-<h1 align="center">🪩 Всем привет! 🪩</h1>
+<h1 align="center"> ✨ Хай! ✨ </h1>
 
 
 ###
